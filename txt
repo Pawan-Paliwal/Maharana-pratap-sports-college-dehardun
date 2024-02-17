@@ -1,0 +1,38 @@
+होम 
+कॉलेज-परिचय 
+संचालन-समिति 
+ स्टाफ/संकाय 
+ सुविधायें 
+ प्रवेश-प्रक्रिया 
+ निविदा 
+ संपर्क
+
+
+
+
+
+ <div class="cm-pm-sm" data-aos="fade-up">
+        <div class="card" id="pic-display">
+            <h2 class="card-header-news">LATEST NEWS</h2>
+            <div class="card-body">
+               
+            </div>
+        </div>
+
+        <div class="card" id="pic-display">
+            <h2 class="card-header-add">ADMISSION</h2>
+            <div class="card-body">
+                
+            </div>
+        </div>
+        <div class="card" id="pic-display">
+            <h2 class="card-header-trends"></h2>
+            <div class="card-body">
+            </div>
+        </div>
+        <div class="card" id="pic-display">
+            <h2 class="card-header-trends"></h2>
+            <div class="card-body">
+            </div>
+        </div>
+    </div>
