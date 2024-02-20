@@ -1,0 +1,65 @@
+.org_college_pic {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+.org__Red {
+  color: #7e0606;
+  font-weight: 600;
+}
+.org__content {
+    margin-top: 60px;
+}
+.org_all {
+  width: 30vw;
+  border: 1px solid black;
+  margin-right: 7px;
+}
+.org_all_image {
+  padding: 6px;
+  width: 30vw;
+  height: 21vw;
+}
+
+.org__all_about {
+  display: flex;
+  margin-top: 35px;
+}
+.org__para {
+  width: 565px;
+}
+.org__image {
+  width: 555px;
+  display: flex;
+  justify-content: center;
+}
+#org_image {
+  width: 359px;
+  height: 221px;
+}
+.org_card_pic {
+  width: 268px
+}
+#card-header {
+  width: 252px;
+  height: 161px;
+}
+.card_display_org {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.org_card_pic {
+  margin-right: 4px;
+}
+.card-head {
+  height: 274px;
+  text-align: center;
+  padding: 7px;
+  margin-top: 3px;
+}
+@media screen and (max-width: 700px) {
+  .org__all_about {
+    flex-wrap: wrap;
+  }
+}

@@ -123,11 +123,7 @@ html {
   top: 2px;
   background-color: #fff;
 }
-.right-menu:hover .drop-down {
-  color: black;
-  display: block;
-  background-color: #fff;
-}
+
 .seprate-div {
   width: 8vw;
   margin-right: 10px;
@@ -141,10 +137,14 @@ html {
   vertical-align: middle;
   margin-left: 5px;
 }
-.menu-button:hover {
-  color: black;
+.right-menu:hover .menu-button a {
+  color: black; /* Change text color */
+}
+
+.right-menu:hover .menu-button {
   background-color: white;
 }
+
 .menu-button {
   height: 39px;
   border-radius: 9px 8px 0px 0px;
@@ -159,9 +159,9 @@ html {
   color: rgb(255, 255, 255);
   opacity: 0.8;
 }
-.menu-button a:hover {
+/* .menu-button a:hover {
   color: black;
-}
+} */
 .drop-down a {
   color: #424242;
   margin-left: 5px;
